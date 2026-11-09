@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yankesswang/yankesswang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://yankesswang.github.io/arthurwang0413/picture.png" width="180" alt="Arthur Wang profile photo">
 
-Here are some ideas to get you started:
+# Arthur Wang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Applied AI Engineer**
+
+On-device AI agents · RAG systems · Local LLM applications · Multimodal AI products
+
+### [View My Interactive HTML Resume →](https://yankesswang.github.io/arthurwang0413/)
+
+[Download PDF Resume](https://yankesswang.github.io/arthurwang0413/arthurwang_cv.pdf)
+
+</div>
